@@ -1,1 +1,0 @@
-git remote add RE_POFOL https://github.com/gosunghoon/RE_POFOL.git
